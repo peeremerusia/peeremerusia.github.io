@@ -9,7 +9,8 @@ body {
 header {
   background: #4CAF50;
   color: white; 
-  padding: center;
+  padding: 20px 0;
+  text-align: center;
 }
 header h1 {
   margin: 0;
